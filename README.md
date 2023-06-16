@@ -1,1 +1,1 @@
-# Projeto-JavaScript-06-main
+# Projeto-JavaScript-06
